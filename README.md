@@ -1,4 +1,4 @@
-# G-A.ME
+# <img width=50 src=https://github.com/0-Whoami/G-A.ME/blob/main/butterfly.png /> G-A.ME
 ## Introduction
 
 Hello I am F00L.® (not real name I promise) The creator of G-A.ME Welcoming you to the new Era of gaming 🎮
@@ -18,7 +18,8 @@ I choose this name to make the user think about me at least once.
 
 #### Why G-A.ME ?
 
- Why not? cause G-A.ME have  <br> * Magic trigger<br>
+ Why not? cause G-A.ME have  <br> 
+* Magic trigger<br>
 * App hider<br>
 * Ram booster <br>
 * Floating apps<br>
@@ -38,6 +39,24 @@ I choose this name to make the user think about me at least once.
 And Many more..
 <br>Trying it first may answer better "why ?"
 
+#### My github status
+
+<div>
+<p align = "center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0-Whoami&count_private=true&theme=algolia&show_icons=true&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=0-Whoami&theme=algolia&hide_border=true&date_format=%5BY%20%5DM%20j"/>
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=0-Whoami&row=4&column=7&theme=algolia&no-frame=true"/>
+    </a>    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Whoami&hide_border=true&theme=algolia&layout=compact" align="center" width = "49%" />
+</p>
+</div>
+<div align="center"></div>  
+
 </details>
 
 ## Installation 
@@ -45,12 +64,15 @@ And Many more..
 <details>
 
 <summary>Click to Expand</summary>
+<br>
+Installation is very simple<br>
+* Download the installer from the link given below<br>
+* Install the apk <br>
+* Open the app and Grant all the permissions it asks <br>
+* Click on Install <br>
+* Install the main app <br>
+And you are done that's it.
 
 </details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-Whoami)](https://github.com/anuraghazra/github-readme-stats)
--->
