@@ -35,7 +35,7 @@ I choose this name to make the user think about me at least once.
 * No root support<br>
 * Control over AI<br>
 * In Game Shortcut Panel<br>
-* Bootless Root for  Non rooted MTK device**<br>
+* Bootless Root for  Non rooted MTK device[^1] <br>
 And Many more..
 <br>Trying it first may answer better "why ?"
 
@@ -66,11 +66,11 @@ And Many more..
 <summary>Click to Expand</summary>
 <br>
 Installation is very simple<br>
-* Download the installer from the link given below<br>
-* Install the apk <br>
-* Open the app and Grant all the permissions it asks <br>
-* Click on Install <br>
-* Install the main app <br>
+- Download the installer from the link given below<br>
+- Install the apk <br>
+- Open the app and Grant all the permissions it asks <br>
+- Click on Install <br>
+- Install the main app <br>
 And you are done that's it.
 
 </details>
@@ -93,13 +93,25 @@ https://user-images.githubusercontent.com/88090262/177029820-2dc43723-d75c-48c5-
 - Click on top right corner to open Manual setting page
 
 <img src=https://github.com/0-Whoami/G-A.ME/blob/main/Screenshot_20220703-131329_G-A.ME.png/>
-
-- Clicking the QS tile will Start G-A.ME Panel
+<sup> Long clicking the  🧠 view will open the advance AI controls</sup><br>
+- Clicking the QS tile will Start/Stop G-A.ME Panel
 <img src=https://github.com/0-Whoami/G-A.ME/blob/main/Screenshot_20220703-172231.jpg/ >
  <sub> This is a look of G-A.ME's Panel and it's inbuilt browser</sub>
+
+#### Functions in G-A.ME Panel
+
+<img src=https://github.com/0-Whoami/G-A.ME/blob/main/PicsArt_06-28-01.56.57.jpg/>
+
+#### Functions in Shiomi's hub
+<img src=https://github.com/0-Whoami/G-A.ME/blob/main/PicsArt_06-28-12.05.14.jpg />
+
+#### There is a Home screen widget to kill performance eating apps
+
+<img src=https://github.com/0-Whoami/G-A.ME/blob/main/PicsArt_06-28-11.24.21.jpg />
 
 </details>
 
 ## [Download](https://www.pling.com/p/1838757/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[^1]: The feature had been removed from the app to use the features join our discussion group 
