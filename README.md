@@ -85,7 +85,14 @@ And you are done that's it.
 
 https://user-images.githubusercontent.com/88090262/177029820-2dc43723-d75c-48c5-8e05-081c18e7f132.mp4
 
-- Hold the tile to open 'Shiomi' 
+- Hold the tile to meet _Shiomi_ 
+<img src=https://github.com/0-Whoami/G-A.ME/blob/main/Screenshot_20220627-114715_G-A.ME.png/>
+
+- Say Hi to Shiomi (Optional😉)
+
+- Click on top right corner to open Manual setting page
+
+
 
 </details>
 
