@@ -95,7 +95,8 @@ https://user-images.githubusercontent.com/88090262/177029820-2dc43723-d75c-48c5-
 <img src=https://github.com/0-Whoami/G-A.ME/blob/main/Screenshot_20220703-131329_G-A.ME.png/>
 
 - Clicking the QS tile will Start G-A.ME Panel
-
+<img src=https://github.com/0-Whoami/G-A.ME/blob/main/Screenshot_20220703-172231.jpg/ >
+ <sub> This is a look of G-A.ME's Panel and it's inbuilt browser</sub>
 
 </details>
 
