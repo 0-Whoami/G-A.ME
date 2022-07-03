@@ -75,7 +75,7 @@ And you are done that's it.
 
 </details>
 
-# Use G-A.ME
+## Use G-A.ME
 
 <details>
 
