@@ -75,4 +75,18 @@ And you are done that's it.
 
 </details>
 
+# Use G-A.ME
+
+<details>
+
+## How to use G-A.ME
+
+- Add Tile in qs Panel
+
+https://user-images.githubusercontent.com/88090262/177029820-2dc43723-d75c-48c5-8e05-081c18e7f132.mp4
+
+- Hold the tile to open 'Shiomi' 
+
+</details>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
