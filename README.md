@@ -97,4 +97,6 @@ https://user-images.githubusercontent.com/88090262/177029820-2dc43723-d75c-48c5-
 
 </details>
 
+## [Download](https://www.pling.com/p/1838757/)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
