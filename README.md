@@ -92,6 +92,7 @@ https://user-images.githubusercontent.com/88090262/177029820-2dc43723-d75c-48c5-
 
 - Click on top right corner to open Manual setting page
 
+<img src=https://github.com/0-Whoami/G-A.ME/blob/main/Screenshot_20220703-131329_G-A.ME.png/>
 
 
 </details>
