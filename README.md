@@ -1,4 +1,5 @@
 # <img width=50 src=https://github.com/0-Whoami/G-A.ME/blob/main/butterfly.png /> G-A.ME
+### // This repo will be updated soon
 ## Introduction
 
 Hello I am F00L.® (not real name I promise) The creator of G-A.ME Welcoming you to the new Era of gaming 🎮
